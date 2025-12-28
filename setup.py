@@ -27,7 +27,7 @@ author = 'Jose Padilla'
 author_email = 'jpadilla@getblimp.com'
 license = 'MIT'
 install_requires = [
-    'PyJWT==2.8.0',
+    'PyJWT==2.10.1',
 ]
 
 
